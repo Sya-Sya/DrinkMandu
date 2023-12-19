@@ -1,0 +1,497 @@
+﻿<!DOCTYPE html>
+<html lang="zxx" class="js">
+
+<head>
+    <base href="../">
+    <meta charset="utf-8">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <!-- Fav Icon  -->
+    <link rel="shortcut icon" href="~/MypayAgent/images/favicon.png">
+    <!-- Page Title  -->
+    <title>MyPay </title>
+    <!-- StyleSheets  -->
+    <link rel="stylesheet" href="~/Dashboard/dashlite.css?ver=2.9.1">
+    <link id="skin-default" rel="stylesheet" href="~/dashboard/theme.css?ver=2.9.1">
+    <script src="//code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+@{
+    string darkmode_class = "";
+}
+<body class="nk-body bg-lighter npc-general has-sidebar bg-white @darkmode_class" oncontextmenu="return false;">
+    <div class="loader" id="AjaxLoader" style="display:none;">
+        <div class="strip-holder">
+            <div class="strip-1"></div>
+            <div class="strip-2"></div>
+            <div class="strip-3"></div>
+        </div>
+    </div>
+    <div class="nk-app-root">
+        <div class="nk-main ">
+            <div class="nk-sidebar nk-sidebar-fixed is-dark " data-content="sidebarMenu">
+                <div class="nk-sidebar-element nk-sidebar-head">
+                    <div class="nk-menu-trigger">
+                        <a href="javascript:void(0)" class="nk-nav-toggle nk-quick-nav-icon d-xl-none" data-target="sidebarMenu"><em class="icon ni ni-arrow-left"></em></a>
+                        <a href="javascript:void(0)" class="nk-nav-compact nk-quick-nav-icon d-none d-xl-inline-flex" data-target="sidebarMenu"><em class="icon ni ni-menu"></em></a>
+                    </div>
+                    <div class="nk-sidebar-brand">
+                        <a href="/AgentAdmin/Dashboard" class="logo-link nk-sidebar-logo">
+                        </a>
+                    </div>
+                </div><!-- .nk-sidebar-element -->
+                <div class="nk-sidebar-element">
+                    <div class="nk-sidebar-body" data-simplebar>
+                        <div class="nk-sidebar-content">
+                            <div class="nk-sidebar-menu">
+                                <div class="user-card d-md-none">
+                                    <div class="user-avatar qr-code">
+                                    </div>
+                                </div>
+                                <ul class="nk-menu">
+
+                                    <li class="nk-menu-heading">
+                                        <h6 class="overline-title text-primary-alt">My Account</h6>
+                                    </li><!-- .nk-menu-item -->
+                                    <li class="nk-menu-item">
+                                        <a href="/MyPayUserLogin/Dashboard" class="nk-menu-link">
+                                            <span class="nk-menu-icon">
+                                                <img src="~/MypayAgent/images/custom-icon//dark/home.svg" class="dark_i">
+                                                <img src="~/MypayAgent/images/custom-icon//light/home.svg" class="light_i">
+                                            </span>
+                                            <span class="nk-menu-text">Home</span>
+                                        </a>
+                                    </li><!-- .nk-menu-item -->
+                                    <li class="nk-menu-item has-sub">
+                                        <a href="javascript:void(0);" class="nk-menu-link nk-menu-toggle">
+                                            <span class="nk-menu-icon">
+                                                <img src="~/MypayAgent/images/custom-icon/dark/mybooking.svg" class="dark_i">
+                                                <img src="~/MypayAgent/images/custom-icon/light/mybooking.svg" class="light_i">
+                                            </span>
+                                            <span class="nk-menu-text">Items </span>
+                                        </a>
+                                        <ul class="nk-menu-sub">
+                                            <li class="nk-menu-item">
+                                                <a href="~/AddAgent/CreateAgent" class="nk-menu-link"><span class="nk-menu-text">Product List</span></a>
+                                            </li>
+                                        </ul><!-- .nk-menu-sub -->
+                                    </li><!-- .nk-menu-item -->
+                                    <li class="nk-menu-item has-sub">
+                                        <a href="javascript:void(0);" class="nk-menu-link nk-menu-toggle">
+                                            <span class="nk-menu-icon">
+                                                <img src="~/MypayAgent/images/custom-icon/dark/mybooking.svg" class="dark_i">
+                                                <img src="~/MypayAgent/images/custom-icon/light/mybooking.svg" class="light_i">
+                                            </span>
+                                            <span class="nk-menu-text">My Order</span>
+                                        </a>
+                                        <ul class="nk-menu-sub">
+                                            <li class="nk-menu-item">
+                                                <a href="/MyPayUser/MyPayUserflightBookings" class="nk-menu-link"><span class="nk-menu-text">Order List</span></a>
+                                            </li>
+                                        </ul><!-- .nk-menu-sub -->
+                                    </li><!-- .nk-menu-item -->
+                                    <li class="nk-menu-item d-md-none">
+                                        <a href="/MyPayUserLogin/Logout" class="nk-menu-link">
+                                            <span class="nk-menu-icon">
+                                                <img src="~/MypayAgent/images/custom-icon/dark/logout.svg" class="dark_i">
+                                                <img src="~/MypayAgent/images/custom-icon/light/logout.svg" class="light_i">
+                                            </span>
+                                            <span class="nk-menu-text">Logout</span>
+                                        </a>
+                                    </li><!-- .nk-menu-item -->
+                                </ul><!-- .nk-menu -->
+                            </div><!-- .nk-sidebar-menu -->
+                            <div class="nk-sidebar-footer">
+                                <ul class="nk-menu nk-menu-footer">
+                                    <li class="nk-menu-item">
+                                        <a href="javascript:void(0);" id="btn_logOut" class="nk-menu-link">
+                                            <span class="nk-menu-icon">
+                                                <img src="~/MypayAgent/images/custom-icon/dark/logout.svg" class="dark_i">
+                                                <img src="~/MypayAgent/images/custom-icon/light/logout.svg" class="light_i">
+                                            </span>
+                                            <span class="nk-menu-text">Log Out</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div><!-- .nk-sidebar-body -->
+                    </div><!-- .nk-sidebar-content -->
+                </div><!-- .nk-sidebar-element -->
+            </div> <!-- sidebar #end --> <!-- wrap #start -->
+            <div class="nk-wrap ">
+                <div class="nk-header nk-header-fixed is-light">
+                    <div class="container-fluid">
+                        <div class="nk-header-wrap">
+                            <div class="row w-100 pb-2 d-md-none justify-content-between">
+                                <div class="col-6 col-sm-4 col-md-4 d-block d-md-none">
+                                    <div class="nk-order-ovwg-data buy">
+                                        <div class="title mt-1">Wallet Balance</div>
+                                        <div class="amount">
+                                            <small class="currenct currency-usd fw-bold">रु</small>
+                                            <span id="spnWalletLayoutXXX">XXX</span>
+                                            <a href="javacript:void(0);" class="form-icon form-icon-right passcode-switch lg " onclick="showhideWallet('spnWalletLayout')">
+                                                <em class="passcode-icon icon-show icon ni ni-eye-fill"></em>
+                                                <em class="passcode-icon icon-hide icon ni ni-eye-off-fill"></em>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-sm-4 col-md-4 d-block d-md-none text-right" onclick="window.location.href = '/MyPayUser/MyPayUserCoinsHistory'">
+                                    <div class="nk-order-ovwg-data default">
+                                        <div class="title mt-1">MyPay Coins</div>
+                                        <div class="amount">
+                                            <em class="mr-1"><img src="~/MypayAgent/images/mypaycoin.svg" width="15" height="15"></em>
+                                            <span id="spnMPCoinsLayoutXXX">XXX</span>
+                                            <a href="javacript:void(0);" class="form-icon form-icon-right passcode-switch lg" onclick="showhideWallet('spnMPCoinsLayout')">
+                                                <em class="passcode-icon icon-show icon ni ni-eye-fill"></em>
+                                                <em class="passcode-icon icon-hide icon ni ni-eye-off-fill"></em>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="nk-header-brand d-xl-none py-1">
+                                <a href="javascript:void(0)" class="logo-link">
+                                    <img class="logo-light logo-img" src="~/MypayAgent/images/logo.png" srcset="~/MypayAgent/images/logo2x.png 2x" alt="logo">
+                                    <img class="logo-dark logo-img" src="~/MypayAgent/images/logo-dark.png" srcset="~/MypayAgent/images/logo-dark2x.png 2x" alt="logo-dark">
+                                </a>="
+                                MypayAgent
+                            </div><!-- .nk-header-brand -->
+                            <div class="nk-header-news d-none d-xl-block">
+                                <div class="nk-news-list">
+                                    <div class="nk-news-item">
+                                        <div class="nk-news-icon">
+                                            <em class="icon ni ni-happy"></em>
+                                        </div>
+                                    </div>
+                                </div><!-- .nk-header-news -->
+                                <div class="nk-header-tools">
+                                    <ul class="nk-quick-nav">
+                                        <li class="dropdown user-dropdown">
+                                            <a href="/MyPayUser/MyPayUserProfile">
+                                                <div class="user-toggle">
+                                                    <div class="user-avatar sm"></div>
+                                                </div>
+                                            </a>
+                                        </li><!-- .dropdown -->
+                                        <li class="dropdown notification-dropdown mr-n1">
+                                            <a href="/MyPayUser/MyPayUserNotifications" class="nk-quick-nav-icon">
+                                                <div class="icon-status icon-status-info"><em class="icon ni ni-bell"></em></div>
+                                            </a>
+                                        </li><!-- .dropdown -->
+                                    </ul><!-- .nk-quick-nav -->
+                                </div><!-- .nk-header-tools -->
+                            </div><!-- .nk-header-wrap -->
+                        </div><!-- .container-fliud -->
+                    </div>
+                    <form id="frm1" method="post" enctype="multipart/form-data">
+                        @RenderBody()
+                    </form>
+                    <div class="nk-footer fix-mobile-menu d-block d-md-none">
+                        <ul>
+                            <li class="nk-menu-item">
+                                <a href="/MyPayUserLogin/Dashboard" class="nk-menu-link">
+                                    <span class="nk-menu-icon">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/light/home.svg" class="light_i">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/dark/home.svg" class="dark_i">
+                                    </span>
+                                    <span class="nk-menu-text">Home</span>
+                                </a>
+                            </li><!-- .nk-menu-item -->
+                            <li class="nk-menu-item">
+                                <a href="/MyPayUser/MyPayUserTransactions" class="nk-menu-link">
+                                    <span class="nk-menu-icon">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/light/transactions.svg" class="light_i">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/dark/transactions.svg" class="dark_i">
+                                    </span>
+                                    <span class="nk-menu-text">Statement</span>
+                                </a>
+                            </li><!-- .nk-menu-item -->
+                            <li class="nk-menu-item">
+                                <a href="/MyPayUser/MyPayUserLinkedAccount" class="nk-menu-link">
+                                    <span class="nk-menu-icon">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/light/bank.svg" class="light_i">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/dark/bank.svg" class="dark_i">
+                                    </span>
+                                    <span class="nk-menu-text">My Banks</span>
+                                </a>
+                            </li><!-- .nk-menu-item -->
+                            <li class="nk-menu-item">
+                                <a href="javascript:void(0)" class="nk-menu-link nk-nav-toggle" data-target="sidebarMenu">
+                                    <span class="nk-menu-icon">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/light/menu.svg" class="light_i">
+                                        <img src="~/MypayAgent/images/custom-icon/mobile/dark/menu.svg" class="dark_i">
+                                    </span>
+                                    <span class="nk-menu-text">Menu</span>
+                                </a>
+                            </li><!-- .nk-menu-item -->
+                        </ul>
+                    </div>
+                    <div class="nk-footer d-none d-md-block">
+                        <div class="container-fluid">
+                            <div class="nk-footer-wrap">
+                                <div class="nk-footer-copyright">
+                                    &copy; 2023 DrinkMandu.
+                                </div>
+                                <div id="google_translate_element"></div>
+                                <div class="nk-footer-links" style="display:none">
+                                    <ul class="socialicons">
+                                        <li>
+                                            <a href="javascript:void(0)" class="icon"><img src="~/MypayAgent/images/socials/fb.svg" alt="Facebook"></a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0)" class="icon"><img src="~/MypayAgent/images/socials/in.svg" alt="Instagram"></a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0)" class="icon"><img src="~/MypayAgent/images/socials/tw.svg" alt="Twitter"></a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0)" class="icon"><img src="~/MypayAgent/images/socials/li.svg" alt="Linkedin"></a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0)" class="icon"><img src="~/MypayAgent/images/socials/tt.svg" alt="Tiktok"></a>
+                                        </li>
+                                        <li>
+                                            <a href="javascript:void(0)" class="icon"><img src="~/MypayAgent/images/socials/vi.svg" alt="Viber"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade zoom" tabindex="-1" id="confirmLogOut" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+            <div class="modal-dialog modal-sm" role="document">
+                <div class="modal-content">
+                    <div class="modal-header justify-content-center">
+                        <h5 class="modal-title text-center">
+                            <label class="mb-0">Confirm Log Out</label>
+                        </h5>
+                    </div>
+                    <div class="modal-body">
+                        <div class="text-center">
+                            <span class="text-soft fs-13px mt-3 w-100 ">Are you sure want to log out?</span>
+                        </div>
+                        <div class="nk-modal-action mt-3 mt-sm-4 text-center">
+                            <a href="javascript:void();" class="btn btn-mw btn-light w-45" data-dismiss="modal">Cancel</a>
+                            <a href="/MyPayUserLogin/Logout" class="btn btn-mw btn-primary w-45" id="btnAddPassengerDetail">Ok</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- JavaScript -->
+    <script src="~/js/bundle.js?ver=2.9.1"></script>
+    <script src="~/js/scripts.js?ver=2.9.1"></script>
+    <script src="~/js/libs/datatable-btns.js?ver=2.9.1"></script>
+    <script src="~/js/charts/chart-hotel.js?ver=2.9.1"></script>
+    <script src="~/js/charts/gd-default.js?ver=2.9.1"></script>
+
+    <style>
+        @@media (min-width: 500px) {
+            .pagecontent {
+                width: 400px;
+                margin: auto;
+            }
+        }
+
+        .otp .form-control {
+            text-align: center;
+            letter-spacing: 35px;
+            padding-left: 56px;
+        }
+
+        .loader {
+            top: 0;
+            left: 0;
+            position: fixed;
+            opacity: 0.8;
+            z-index: 10000000;
+            background: Black;
+            height: 100%;
+            width: 100%;
+            margin: auto;
+        }
+
+        .strip-holder {
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            left: 50%;
+            margin-left: -50px;
+            position: relative;
+        }
+
+        .strip-1,
+        .strip-2,
+        .strip-3 {
+            width: 20px;
+            height: 20px;
+            background: #ffa353;
+            position: relative;
+            -webkit-animation: stripMove 2s ease infinite alternate;
+            animation: stripMove 2s ease infinite alternate;
+            -moz-animation: stripMove 2s ease infinite alternate;
+        }
+
+        .strip-2 {
+            -webkit-animation-duration: 2.1s;
+            animation-duration: 2.1s;
+            background-color: #F8E401;
+        }
+
+        .strip-3 {
+            -webkit-animation-duration: 2.2s;
+            animation-duration: 2.2s;
+            background-color: #E45415;
+        }
+
+        @@-webkit-keyframes stripMove {
+            0% {
+                transform: translate3d(0px, 0px, 0px);
+                -webkit-transform: translate3d(0px, 0px, 0px);
+                -moz-transform: translate3d(0px, 0px, 0px);
+            }
+
+            50% {
+                transform: translate3d(0px, 0px, 0px);
+                -webkit-transform: translate3d(0px, 0px, 0px);
+                -moz-transform: translate3d(0px, 0px, 0px);
+                transform: scale(4, 1);
+                -webkit-transform: scale(4, 1);
+                -moz-transform: scale(4, 1);
+            }
+
+            100% {
+                transform: translate3d(-50px, 0px, 0px);
+                -webkit-transform: translate3d(-50px, 0px, 0px);
+                -moz-transform: translate3d(-50px, 0px, 0px);
+            }
+        }
+
+        @@-moz-keyframes stripMove {
+            0% {
+                transform: translate3d(-50px, 0px, 0px);
+                -webkit-transform: translate3d(-50px, 0px, 0px);
+                -moz-transform: translate3d(-50px, 0px, 0px);
+            }
+
+            50% {
+                transform: translate3d(0px, 0px, 0px);
+                -webkit-transform: translate3d(0px, 0px, 0px);
+                -moz-transform: translate3d(0px, 0px, 0px);
+                transform: scale(4, 1);
+                -webkit-transform: scale(4, 1);
+                -moz-transform: scale(4, 1);
+            }
+
+            100% {
+                transform: translate3d(50px, 0px, 0px);
+                -webkit-transform: translate3d(50px, 0px, 0px);
+                -moz-transform: translate3d(50px, 0px, 0px);
+            }
+        }
+
+        @@keyframes stripMove {
+            0% {
+                transform: translate3d(-50px, 0px, 0px);
+                -webkit-transform: translate3d(-50px, 0px, 0px);
+                -moz-transform: translate3d(-50px, 0px, 0px);
+            }
+
+            50% {
+                transform: translate3d(0px, 0px, 0px);
+                -webkit-transform: translate3d(0px, 0px, 0px);
+                -moz-transform: translate3d(0px, 0px, 0px);
+                transform: scale(4, 1);
+                -webkit-transform: scale(4, 1);
+                -moz-transform: scale(4, 1);
+            }
+
+            100% {
+                transform: translate3d(50px, 0px, 0px);
+                -webkit-transform: translate3d(50px, 0px, 0px);
+                -moz-transform: translate3d(50px, 0px, 0px);
+            }
+        }
+
+        a {
+            color: #E45415;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        .kycVerified {
+            background: lightgreen;
+            padding: 5px;
+            border-radius: 10px;
+        }
+
+        .kycPending {
+            background: yellow;
+            padding: 5px;
+            border-radius: 10px;
+        }
+
+        .kycRejected {
+            background: red;
+            padding: 5px;
+            border-radius: 10px;
+            color: #fff;
+        }
+
+        p.marquee {
+            white-space: no-wrap;
+            overflow: hidden;
+        }
+
+            p.marquee > marquee-text.marquee-text {
+                white-space: nowrap;
+                display: inline;
+                width: auto;
+            }
+
+        .blacktxt {
+            color: #000;
+        }
+
+        #dvMessage {
+            text-align: center;
+        }
+
+        h6.fs-14px.mt-3.mb-4 {
+            text-align: center;
+        }
+
+        ::-ms-reveal {
+            display: none
+        }
+
+        .clsBackButton {
+            text-align: center;
+        }
+
+        iframe#\:1\.container {
+            display: none;
+        }
+
+        .goog-te-combo {
+            height: 30px;
+            border-radius: 5px;
+            padding: 5px;
+        }
+
+        div#goog-gt- {
+            display: none !important;
+        }
+    </style>
+
+</body>
+</html>

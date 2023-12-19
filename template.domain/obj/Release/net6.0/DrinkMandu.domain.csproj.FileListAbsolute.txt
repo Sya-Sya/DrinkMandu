@@ -1,0 +1,28 @@
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.deps.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.runtimeconfig.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.csproj.AssemblyReference.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.AssemblyInfoInputs.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.AssemblyInfo.cs
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.csproj.CoreCompileInputs.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\refint\DrinkMandu.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.genruntimeconfig.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\ref\DrinkMandu.domain.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.deps.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.runtimeconfig.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Release\net6.0\DrinkMandu.domain.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.csproj.AssemblyReference.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.AssemblyInfoInputs.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.AssemblyInfo.cs
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\refint\DrinkMandu.domain.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\DrinkMandu.domain.genruntimeconfig.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Release\net6.0\ref\DrinkMandu.domain.dll

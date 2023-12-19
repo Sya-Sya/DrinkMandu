@@ -1,0 +1,35 @@
+﻿@model template.application.Models.Agent.Agent;
+
+@{
+    Layout = "~/Views/Shared/_AgentPanel.cshtml";
+}
+
+<h4>Create New Agent</h4>
+
+@using (Html.BeginForm("AddAgent", "CreateAgent", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="mb-3">
+        <label for="email" class="form-label">First Name</label>
+        @Html.TextBoxFor(model => model.FirstName, new { id="email",type="text",@class = "form-control", @placeholder = "First Name", autocomplete = "off", @maxlength = "50" })
+    </div>
+    <div class="mb-3">
+        <label for="LastName" class="form-label">LastName</label>
+        @Html.TextBoxFor(model => model.LastName, new { id="Latname",type="text",@class = "form-control", @placeholder = "Last Name", autocomplete = "off", @maxlength = "50" })
+    </div>
+    <div class="mb-3">
+        <label for="Address " class="form-label">Address</label>
+        @Html.TextBoxFor(model => model.Address, new { id="Address",type="text",@class = "form-control", @placeholder = "Address", autocomplete = "off", @maxlength = "50" })
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        @Html.TextBoxFor(model => model.AgentEmail, new { id="",type="text",@class = "form-control", @placeholder = "Email", autocomplete = "off", @maxlength = "50" })
+    </div>
+    <div class="mb-3">
+        <label for="Country" class="form-label">Country</label>
+        @Html.TextBoxFor(model => model.Country, new { id="Country",type="text",@class = "form-control", @placeholder = "Country", autocomplete = "off", @maxlength = "50" })
+    </div>
+    <div class="mb-3">
+        <button class="btn btn-primary d-grid w-100" type="submit" data-onsuccess="onSignIn">Sign in</button>
+    </div>
+}

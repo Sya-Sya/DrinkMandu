@@ -1,0 +1,42 @@
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.deps.json
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.runtimeconfig.json
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.pdb
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.csproj.AssemblyReference.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.AssemblyInfoInputs.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.AssemblyInfo.cs
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.csproj.CoreCompileInputs.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\refint\template.domain.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.pdb
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.genruntimeconfig.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\ref\template.domain.dll
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.deps.json
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.runtimeconfig.json
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.dll
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\bin\Debug\net6.0\template.domain.pdb
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.csproj.AssemblyReference.cache
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.AssemblyInfoInputs.cache
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.AssemblyInfo.cs
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.csproj.CoreCompileInputs.cache
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.dll
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\refint\template.domain.dll
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.pdb
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\template.domain.genruntimeconfig.cache
+C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.domain\obj\Debug\net6.0\ref\template.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Debug\net6.0\template.domain.deps.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Debug\net6.0\template.domain.runtimeconfig.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Debug\net6.0\template.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\bin\Debug\net6.0\template.domain.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.csproj.AssemblyReference.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.AssemblyInfoInputs.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.AssemblyInfo.cs
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.csproj.CoreCompileInputs.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\refint\template.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\template.domain.genruntimeconfig.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.domain\obj\Debug\net6.0\ref\template.domain.dll

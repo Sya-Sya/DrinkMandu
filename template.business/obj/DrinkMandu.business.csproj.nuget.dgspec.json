@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.business\\DrinkMandu.business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.business\\DrinkMandu.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.business\\DrinkMandu.business.csproj",
+        "projectName": "DrinkMandu.business",
+        "projectPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.business\\DrinkMandu.business.csproj",
+        "packagesPath": "C:\\Users\\Prashant Shrestha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prashant Shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj": {
+                "projectPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj"
+              },
+              "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.infrastructure\\DRinkMandu.infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.infrastructure\\DRinkMandu.infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj",
+        "projectName": "DrinkMandu.domain",
+        "projectPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj",
+        "packagesPath": "C:\\Users\\Prashant Shrestha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prashant Shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.infrastructure\\DRinkMandu.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.infrastructure\\DRinkMandu.infrastructure.csproj",
+        "projectName": "DRinkMandu.infrastructure",
+        "projectPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.infrastructure\\DRinkMandu.infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Prashant Shrestha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Prashant Shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj": {
+                "projectPath": "C:\\Users\\Prashant Shrestha\\Documents\\Projects\\MyPersonal\\DrinkMandu\\DrinkMandu\\DrinKmandu\\DrinkMandu.application\\template.domain\\DrinkMandu.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Web.Administration": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

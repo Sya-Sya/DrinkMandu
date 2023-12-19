@@ -1,0 +1,256 @@
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\appsettings.Development.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\appsettings.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.staticwebassets.runtime.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.exe
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.deps.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.runtimeconfig.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\AutoMapper.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Dapper.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Enums.NET.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Auth.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Auth.AspNetCore3.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Core.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Humanizer.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\MathNet.Numerics.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Identity.Client.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Web.Administration.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Newtonsoft.Json.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.OOXML.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.OpenXml4Net.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.OpenXmlFormats.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\BouncyCastle.Crypto.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\RestSharp.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\SixLabors.Fonts.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\SixLabors.ImageSharp.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Data.SqlClient.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Drawing.Common.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Private.ServiceModel.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Runtime.Caching.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Cryptography.Xml.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Permissions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.Http.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.Security.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Text.Encodings.Web.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Text.Json.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Windows.Extensions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.Core.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.Libs.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.MediaFramework.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.Types.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\unix\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.business.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.domain.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DRinkMandu.infrastructure.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.business.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.domain.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DRinkMandu.infrastructure.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.csproj.AssemblyReference.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.GeneratedMSBuildEditorConfig.editorconfig
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.AssemblyInfoInputs.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.AssemblyInfo.cs
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.csproj.CoreCompileInputs.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.MvcApplicationPartsAssemblyInfo.cs
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.MvcApplicationPartsAssemblyInfo.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.RazorAssemblyInfo.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.RazorAssemblyInfo.cs
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.DrinkMandu.application.Microsoft.AspNetCore.StaticWebAssets.props
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.build.DrinkMandu.application.props
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.DrinkMandu.application.props
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.DrinkMandu.application.props
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets.pack.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets.build.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets.development.json
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\scopedcss\bundle\DrinkMandu.application.styles.css
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\scopedcss\projectbundle\DrinkMandu.application.bundle.scp.css
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.csproj.CopyComplete
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\refint\DrinkMandu.application.dll
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.pdb
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.genruntimeconfig.cache
+F:\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\ref\DrinkMandu.application.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\appsettings.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.staticwebassets.runtime.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.exe
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.deps.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.runtimeconfig.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.application.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\AutoMapper.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Dapper.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Enums.NET.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Auth.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Auth.AspNetCore3.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Google.Apis.Core.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Humanizer.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\MathNet.Numerics.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Web.Administration.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.OOXML.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.OpenXml4Net.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.OpenXmlFormats.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\NPOI.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\RestSharp.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\SixLabors.Fonts.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\SixLabors.ImageSharp.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Private.ServiceModel.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.Http.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.ServiceModel.Security.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.Core.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.Libs.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.MediaFramework.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\VisioForge.Types.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\unix\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\netstandard1.5\System.ServiceProcess.ServiceController.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.business.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.domain.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DRinkMandu.infrastructure.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.business.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DrinkMandu.domain.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\bin\Release\net6.0\DRinkMandu.infrastructure.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.csproj.AssemblyReference.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.AssemblyInfoInputs.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.AssemblyInfo.cs
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.RazorAssemblyInfo.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.RazorAssemblyInfo.cs
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.DrinkMandu.application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.build.DrinkMandu.application.props
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.DrinkMandu.application.props
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.DrinkMandu.application.props
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\scopedcss\bundle\DrinkMandu.application.styles.css
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\scopedcss\projectbundle\DrinkMandu.application.bundle.scp.css
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.csproj.CopyComplete
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\refint\DrinkMandu.application.dll
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.pdb
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\DrinkMandu.application.genruntimeconfig.cache
+C:\Users\Prashant Shrestha\Documents\Projects\MyPersonal\DrinkMandu\DrinkMandu\DrinKmandu\DrinkMandu.application\template.application\obj\Release\net6.0\ref\DrinkMandu.application.dll

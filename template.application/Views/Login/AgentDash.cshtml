@@ -1,0 +1,43 @@
+﻿@model template.application.Models.Agent.Agent;
+
+@{
+    Layout = "~/Views/Shared/_AgentPanel.cshtml";
+}
+
+<!-- Pin Confirmation -->
+<div class="modal fade zoom" tabindex="-1" id="ComingSoon" style="display:none;">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header justify-content-center">
+                <img class="logo-dark logo-img" src="~/MypayAgent/images/dashboard/logo-dark.png" srcset="~/MypayAgent/images/logo-dark2x.png 2x" alt="logo-dark">
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <div class="form-control-wrap text-center otp">
+                        <label class="form-label text-soft" for="Amount">Coming Soon</label>
+                    </div>
+                    <div class="form-group">
+                        <a class="btn btn-primary text-center text-white btn-lg d-block" data-dismiss="modal">Close</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .cashbackhide {
+        display: none;
+    }
+</style>
+
+<script>
+    function showhideBalance(obj) {
+        event.preventDefault();
+        event.stopPropagation();
+        $("#" + obj).toggle();
+        $("#" + obj + "XXX").toggle();
+        $("#" + obj + "On").toggle();
+        $("#" + obj + "Off").toggle();
+    }
+</script>

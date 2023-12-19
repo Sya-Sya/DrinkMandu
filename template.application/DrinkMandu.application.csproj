@@ -1,0 +1,81 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--<Compile Remove="obj\Debug\**" />-->
+    <Content Remove="obj\Debug\**" />
+    <!--<EmbeddedResource Remove="obj\Debug\**" />
+    <None Remove="obj\Debug\**" />-->
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Shared\_LayoutNew.cshtml" />
+    <Content Remove="wwwroot\register\image\istockphoto-475500992-612x612.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\Release\net6.0\scopedcss\bundle\template.application.styles.css" />
+    <Content Include="obj\Release\net6.0\scopedcss\projectbundle\template.application.bundle.scp.css" />
+    <Content Include="obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css" />
+    <Content Include="obj\Release\net6.0\staticwebassets.build.json" />
+    <Content Include="obj\Release\net6.0\staticwebassets.development.json" />
+    <Content Include="obj\Release\net6.0\template.application.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\template.application.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net6.0\apphost.exe" />
+    <None Include="obj\Release\net6.0\refint\template.application.dll" />
+    <None Include="obj\Release\net6.0\ref\template.application.dll" />
+    <None Include="obj\Release\net6.0\template.application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\template.application.assets.cache" />
+    <None Include="obj\Release\net6.0\template.application.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\net6.0\template.application.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Release\net6.0\template.application.csproj.CopyComplete" />
+    <None Include="obj\Release\net6.0\template.application.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Release\net6.0\template.application.dll" />
+    <None Include="obj\Release\net6.0\template.application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Release\net6.0\template.application.genruntimeconfig.cache" />
+    <None Include="obj\Release\net6.0\template.application.MvcApplicationPartsAssemblyInfo.cache" />
+    <None Include="obj\Release\net6.0\template.application.pdb" />
+    <None Include="obj\Release\net6.0\template.application.RazorAssemblyInfo.cache" />
+    <None Include="obj\staticwebassets.pack.sentinel" />
+    <None Include="obj\template.application.csproj.nuget.g.props" />
+    <None Include="obj\template.application.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Google.Apis.Auth.AspNetCore3" Version="1.60.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="NPOI" Version="2.6.0" />
+    <PackageReference Include="RestSharp" Version="108.0.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="VisioForge.DotNet.Core.TRIAL" Version="15.1.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\template.business\DrinkMandu.business.csproj" />
+    <ProjectReference Include="..\template.domain\DrinkMandu.domain.csproj" />
+    <ProjectReference Include="..\template.infrastructure\DRinkMandu.infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="obj\Release\net6.0\staticwebassets\" />
+    <Folder Include="wwwroot\register\assets\" />
+  </ItemGroup>
+
+</Project>

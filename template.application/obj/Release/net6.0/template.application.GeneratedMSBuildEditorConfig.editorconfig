@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = template.application
+build_property.RootNamespace = template.application
+build_property.ProjectDir = C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.application\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\chaud\Downloads\AgentPanelMYpaywallet\AgentPanelMYpaywallet\template.application\template.application
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/AddAgent/CreateAgent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQWdlbnRcQ3JlYXRlQWdlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/AddAgent/DetailsAgent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQWdlbnRcRGV0YWlsc0FnZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/AddAgent/RegisterAgent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQWdlbnRcUmVnaXN0ZXJBZ2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/AgentAdmin/AgentRightSidePanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRBZG1pblxBZ2VudFJpZ2h0U2lkZVBhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/AgentAdmin/DashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRBZG1pblxEYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Home/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Login/AgentDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWdlbnREYXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Login/ForgertPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ2VydFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Login/OTP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cT1RQLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Shared/_AgentPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZ2VudFBhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Topup/Topup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9wdXBcVG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chaud/Downloads/AgentPanelMYpaywallet/AgentPanelMYpaywallet/template.application/template.application/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h95jfcmvce

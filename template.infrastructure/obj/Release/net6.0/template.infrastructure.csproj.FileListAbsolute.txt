@@ -1,0 +1,17 @@
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\bin\Release\net6.0\template.infrastructure.deps.json
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\bin\Release\net6.0\template.infrastructure.runtimeconfig.json
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\bin\Release\net6.0\template.infrastructure.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\bin\Release\net6.0\template.infrastructure.pdb
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\bin\Release\net6.0\template.domain.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\bin\Release\net6.0\template.domain.pdb
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.csproj.AssemblyReference.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.AssemblyInfoInputs.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.AssemblyInfo.cs
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.csproj.CoreCompileInputs.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.csproj.CopyComplete
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\refint\template.infrastructure.dll
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.pdb
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\template.infrastructure.genruntimeconfig.cache
+D:\MYPAY develops\AgentPanelMYpaywallet\template.application\template.infrastructure\obj\Release\net6.0\ref\template.infrastructure.dll
